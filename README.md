@@ -13,9 +13,9 @@ actually understanding them.
 |---|---|
 | Array / String | ✅ Complete |
 | Two Pointers | ✅ Complete |
-| Sliding Window | 🔄 In Progress |
-| Prefix Sum | ⏳ Pending |
-| Hash Map / Set | ⏳ Pending |
+| Sliding Window |✅ Complete|
+| Prefix Sum |✅ Complete|
+| Hash Map / Set |🔁 Ongoing |
 | Stack | ⏳ Pending |
 | Queue | ⏳ Pending |
 | Linked List | ⏳ Pending |
